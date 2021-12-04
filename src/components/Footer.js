@@ -53,6 +53,7 @@ const Footer = () => {
           <SocialIcon
               href="https://www.linkedin.com/in/ashwin-ferolic-5786541b6/"
               target="_blank"
+              rel="noreferrer"
             >
               <i className="fab fa-linkedin"></i>
             </SocialIcon>
@@ -60,6 +61,7 @@ const Footer = () => {
             <SocialIcon
               href="https://www.instagram.com/coldcoffee_cinema/"
               target="_blank"
+              rel="noreferrer"
             >
               <i className="fab fa-instagram"></i>
             </SocialIcon>
@@ -67,6 +69,7 @@ const Footer = () => {
             <SocialIcon
               href="https://github.com/ferolic"
               target="_blank"
+              rel="noreferrer"
             >
               <i className="fab fa-github"></i>
             </SocialIcon>

@@ -184,7 +184,7 @@ const Contact = () => {
                     <GridLeft>
                         <GridTextWrapper>
                             <InstaTitle> I'm a lot cooler on instagram </InstaTitle>
-                            <a href='/'>
+                            <a href='https://www.instagram.com/coldcoffee_cinema/' target='_blank' rel="noreferrer">
                                 <p className='link'> See More <span> › </span> </p>
                             </a>
                         </GridTextWrapper>
