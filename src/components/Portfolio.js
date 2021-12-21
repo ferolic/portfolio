@@ -130,7 +130,7 @@ const Portfolio = () => {
                             <br />
                         </p>
                         <p className='desc disabled-text'>
-                           <strong>  Comming Soon ! </strong>
+                           <strong>  Coming Soon ! </strong>
                         </p>
                    </Project>
                 </ProjectWrapper>
